@@ -21,7 +21,7 @@ const Portfolio = () => {
                             ))}
                         </ul>
                         <div className={css.links}>
-                            <a href={item[4]}><i className="fa-brands fa-github"></i> GitHub</a>
+                            {item[4] != 'false' && <a href={item[4]}><i className="fa-brands fa-github"></i> GitHub</a>}
                             <a href={item[5]}><i className="fa-solid fa-link"></i> {item[5]}</a>
                         </div>
                     </div>

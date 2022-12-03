@@ -105,8 +105,8 @@ export const eng = {
             [
                 'Custom design', 'HTML', 'SASS', 'javascript', 'reactjs', 'Redux', 'React Router', 'Responsive layout',
             ],
-            'www.github.com/resume/',
-            'www.resume.com',
+            'https://github.com/junkedboy/resume',
+            'https://github.com/junkedboy/resume',
         ],
         [
             'Car Service (under development)',
@@ -252,8 +252,8 @@ export const ukr = {
             [
                 'Власний дизайн', 'HTML', 'SASS', 'javascript', 'reactjs', 'Redux', 'React Router', 'Адаптивна верстка',
             ],
-            'www.github.com/resume/',
-            'www.resume.com',
+            'https://github.com/junkedboy/resume',
+            'https://github.com/junkedboy/resume',
         ],
         [
             'Car Service (в розробці)',
